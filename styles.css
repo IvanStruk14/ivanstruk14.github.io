@@ -4,28 +4,25 @@ body, h1, h2, p, ul {
   padding: 0;
 }
 
-/* Set the background color and text color */
 body {
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Comic Sans MS', cursive !important;
   background: url('assets/images/main_bg.jpg');
   color: black;
 }
 
-/* Style the header */
 header {
   padding: 10px 0;
   text-align: center;
 }
 
-/* Style the main content */
 main {
   padding: 20px;
 }
 
-/* Style the article */
 article {
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 
